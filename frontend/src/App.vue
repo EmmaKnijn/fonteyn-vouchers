@@ -27,7 +27,8 @@ const isAuthenticated = ref(false)
 const userRole = ref('')
 
 // Configure axios
-axios.defaults.baseURL = 'http://localhost:3000'
+// Use absolute path for API requests
+axios.defaults.baseURL = 'http://vouchers.fonteyn.local'
 axios.defaults.withCredentials = true
 
 const checkAuth = async () => {

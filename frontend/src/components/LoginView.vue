@@ -21,7 +21,7 @@
         <span>OR</span>
       </div>
       
-      <a href="http://localhost:3000/api/auth/entra" class="btn entra-btn">
+      <a href="http://vouchers.fonteyn.local/api/auth/entra" class="btn entra-btn">
         <svg class="ms-logo" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
           <rect x="1" y="1" width="9" height="9" fill="#f25022"/>
           <rect x="11" y="1" width="9" height="9" fill="#7fba00"/>
